@@ -16,9 +16,9 @@ Certified on - Microsoft certified professional
 
 ![Sukumar's github stats](https://github-readme-stats.vercel.app/api?username=sukumarc&hide=issues&show_icons=true&theme=onedark)
 
-### Connect with Me 🤝🏻
+### Connect with Me 
 
-* [Website](https://www.sukumarc.com/)
-* [LinkedIn](https://www.linkedin.com/in/sukumarc/)
-* [Twitter](https://twitter.com/ImSukumarC)
-* [Facebook](https://www.facebook.com/sukumarchandranc)
+[Website](https://www.sukumarc.com/)
+[LinkedIn](https://www.linkedin.com/in/sukumarc/)
+[Twitter](https://twitter.com/ImSukumarC)
+[Facebook](https://www.facebook.com/sukumarchandranc)
