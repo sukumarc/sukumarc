@@ -8,11 +8,11 @@ I am [Sukumar Chandrasekaran](https://www.sukumarc.com). Having 5+ years of prof
 
 Currently I am working as a Java developer in L&T Infotech, Chennai.
 
-I am interested in coding. I have developed many Java real time applications using Spring. I participated in the  National level programming contest IBM TGMC (The Great Mind Challenge) and reached the final round .
+I am interested in coding. I have developed many Java real time applications using Spring. I participated in the  National level programming contest IBM TGMC (The Great Mind Challenge) and reached the final round.
 
 During my final year I helped develop  the website “www.threads15.com”  for the annual national level inter college symposium conducted at my university. 
 
-Certified on - Microsoft certified professional .
+Certified on - Microsoft certified professional
 
 ![Sukumar's github stats](https://github-readme-stats.vercel.app/api?username=sukumarc&hide=issues&show_icons=true&theme=onedark)
 
@@ -22,4 +22,3 @@ Certified on - Microsoft certified professional .
 * [LinkedIn](https://www.linkedin.com/in/sukumarc/)
 * [Twitter](https://twitter.com/ImSukumarC)
 * [Facebook](https://www.facebook.com/sukumarchandranc)
-
