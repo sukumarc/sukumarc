@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **sukumarc/sukumarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hi I am [Sukumar Chandrasekaran](https://www.sukumarc.com). Having 5+ years of professional experience in design and development of Payment Products, ERP products and Mobile Applications as JAVA Developer. 
+I am [Sukumar Chandrasekaran](https://www.sukumarc.com). Having 5+ years of professional experience in design and development of Payment Products, ERP products and Mobile Applications as JAVA Developer. 
 
 Currently I am working as a Java developer in L&T Infotech, Chennai.
 
