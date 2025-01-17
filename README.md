@@ -4,9 +4,9 @@
 **sukumarc/sukumarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Sukumar Chandrasekaran](https://www.sukumarc.com). Having 8+ years of professional experience in design and development of Payment, Network, ERP products and Mobile Applications as JAVA Developer. 
+I am [Sukumar Chandrasekaran](https://www.sukumarc.com). Having 9+ years of professional experience in design and development of Payment, Network, ERP products and Mobile Applications as JAVA Developer. 
 
-Currently I am working as a  Lead Java backend developer in Tech Mahindra, Bangalore.
+Currently I am working as a Lead Java backend developer in Tech Mahindra, Bangalore.
 
 I am interested in coding. I have developed many Java real time applications using Spring. I participated in the  National level programming contest IBM TGMC (The Great Mind Challenge) and reached the final round.
 
