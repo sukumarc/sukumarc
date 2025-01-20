@@ -4,15 +4,17 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-Having 9+ years of professional experience in design and development of Payment, Network, ERP products and Mobile Applications as JAVA Developer. 
+A skilled backend developer with over 9 years of professional experience. I specialize in designing and developing robust payment systems, ERP platforms, and networking products using Java technologies. 
 
-Currently I am working as a Lead Java backend developer in Tech Mahindra, Bangalore.
+Currently a Tech Lead at Tech Mahindra, I manage large-scale network tools handling over 1.5 million devices globally. 
 
-I am interested in coding. I have developed many Java real time applications using Spring. I participated in the  National level programming contest IBM TGMC (The Great Mind Challenge) and reached the final round.
+Proficient in Java EE, Spring Boot, Microservices, RESTful APIs and cloud technologies with a proven track record of driving performance and mentoring teams. I am dedicated to building innovative and efficient backend solution
 
-During my final year I helped develop  the website “www.threads15.com”  for the annual national level inter college symposium conducted at my university. 
+I have participated in the  National level programming contest IBM TGMC 2014 (The Great Mind Challenge) and reached the final round.
 
-Certified on - Microsoft certified professional
+During my final year I helped develop the website “www.threads15.com” for the annual national level inter college symposium conducted at my university. 
+
+I am passionate about building efficient solutions. Beyond work, I enjoy gaming, movies, and music.
 
 ## :hammer_and_wrench: Technologies and Tools
 
