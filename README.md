@@ -2,7 +2,7 @@
 
 ### I am [Sukumar Chandrasekaran](https://www.sukumarc.com), Backend Developer :computer:
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="developer" width="500">
 
 A skilled backend developer with over 9 years of professional experience. I specialize in designing and developing robust payment systems, ERP platforms, and networking products using Java technologies. 
 
