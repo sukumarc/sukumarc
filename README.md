@@ -1,8 +1,6 @@
-### Hello there 👋
+### Hello there!!! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-<!--
-**sukumarc/sukumarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 I am [Sukumar Chandrasekaran](https://www.sukumarc.com). Having 9+ years of professional experience in design and development of Payment, Network, ERP products and Mobile Applications as JAVA Developer. 
 
