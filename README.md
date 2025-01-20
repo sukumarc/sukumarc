@@ -58,4 +58,5 @@ Certified on - Microsoft certified professional
 ##
 ![Sukumar's github stats](https://github-readme-stats.vercel.app/api?username=sukumarc&hide=issues&show_icons=true&theme=onedark)
 
-
+##
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sukumar.c)
