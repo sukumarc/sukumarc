@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="developer" width="500">
 
-A skilled backend developer with over 9 years of professional experience. I specialize in designing and developing robust payment systems, ERP platforms, and networking products using Java technologies. 
+A skilled backend developer with over 10+ years of professional experience. I specialize in designing and developing robust payment systems, ERP platforms, and networking products using Java technologies. 
 
 Currently a Tech Lead at Tech Mahindra, I manage large-scale network tools handling over 1.5 million devices globally. 
 
